@@ -34,4 +34,4 @@ To run the application locally, follow these steps:
    npm install
 
 3. Run the app:
-   nmp start
+   npm start
